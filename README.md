@@ -9,7 +9,7 @@
 ![Android](https://img.shields.io/badge/Android-MVVM-3DDC84?style=for-the-badge&logo=android)
 
 ---
-https://github.com/user-attachments/assets/1038596f-36cc-4762-8204-29731c7d4721
+https://github.com/user-attachments/assets/61faf9b9-837c-4349-bf6b-2b1f0866ecc9
 
 ### ✨ **Live Dashboard & Technical Overview**
 
