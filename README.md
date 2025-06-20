@@ -9,16 +9,16 @@
 ![Android](https://img.shields.io/badge/Android-MVVM-3DDC84?style=for-the-badge&logo=android)
 
 ---
+https://github.com/user-attachments/assets/826b444f-87f1-474c-9a07-87787437a019
 
 ### ✨ **Live Dashboard & Technical Overview**
-
-https://github.com/user-attachments/assets/1038596f-36cc-4762-8204-29731c7d4721
 
 A live, interactive web dashboard detailing the project's architecture, components, and features has been deployed.
 
 **[➡️ View the Live Project Dashboard](https://speech-therapy-dashboard1.onrender.com/)**
 
 ---
+https://github.com/user-attachments/assets/1038596f-36cc-4762-8204-29731c7d4721
 
 ## 🎯 **Core Features**
 
