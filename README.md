@@ -9,7 +9,7 @@
 ![Android](https://img.shields.io/badge/Android-MVVM-3DDC84?style=for-the-badge&logo=android)
 
 ---
-https://github.com/user-attachments/assets/826b444f-87f1-474c-9a07-87787437a019
+https://github.com/user-attachments/assets/1038596f-36cc-4762-8204-29731c7d4721
 
 ### ✨ **Live Dashboard & Technical Overview**
 
@@ -18,7 +18,6 @@ A live, interactive web dashboard detailing the project's architecture, componen
 **[➡️ View the Live Project Dashboard](https://speech-therapy-dashboard1.onrender.com/)**
 
 ---
-https://github.com/user-attachments/assets/1038596f-36cc-4762-8204-29731c7d4721
 
 ## 🎯 **Core Features**
 
@@ -100,6 +99,7 @@ A key innovation of this project is the custom 4-class AI model, which distingui
 This distinction allows the **`AdaptivePlanner`** to recommend targeted therapeutic exercises for clinical patterns while providing gentler, more encouraging feedback for normal disfluencies.
 
 ---
+https://github.com/user-attachments/assets/826b444f-87f1-474c-9a07-87787437a019
 
 ## 🚀 **Project Status: Complete & Deployed**
 
