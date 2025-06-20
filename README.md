@@ -125,6 +125,11 @@ The remaining work is focused on final testing, refinement, and academic documen
 
 ---
 
-### **Author**
+## 🧑‍💻 Author & Contact
 
-* **Pedro Fabian Owono** - *Final Year Project updates*
+* **Pedro Fabian Mange Owono Ondo**
+* **GitHub:** [Owono2001](https://github.com/Owono2001) 
+* **Email:** [owonoondomangue@gmail.com](mailto:owonoondomangue@gmail.com)
+* **Portfolio:** [View My Website](https://myportfolio-b-type.onrender.com/)
+
+---
