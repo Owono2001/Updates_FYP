@@ -17,7 +17,7 @@ A live, interactive web dashboard detailing the project's architecture, componen
 
 **[➡️ View the Live Project Dashboard](https://speech-therapy-dashboard1.onrender.com///)**
 
-**[➡️ View the Live Framework Dashboard-Updated-Latest](https://speech-therapy-dashboard2.onrender.com////)**
+**[➡️ My Updated Progress](https://speech-therapy-dashboard2.onrender.com////)**
 
 ---
 
