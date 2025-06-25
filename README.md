@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/61faf9b9-837c-4349-bf6b-2b1f0866ecc9
 
 A live, interactive web dashboard detailing the project's architecture, components, and features has been deployed.
 
-**[➡️ View the Live Project Dashboard](https://speech-therapy-dashboard1.onrender.com///)**
+**[➡️ View the Live Project Dashboard Scope](https://speech-therapy-dashboard1.onrender.com///)**
 
 **[➡️ My Updated Progress Dashboard](https://speech-therapy-dashboard2.onrender.com////)**
 
