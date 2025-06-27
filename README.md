@@ -1,6 +1,6 @@
 # 🎙️ AI-Powered Speech Therapy Assistant
 
-**A comprehensive, AI-driven mobile application designed to provide real-time analysis and personalized therapy for individuals with speech disfluencies. This project serves as a Final Year Project, demonstrating a complete client-server system with an advanced machine learning model.**
+**The project aims to address the significant challenges faced by individuals with speech disorders (such as stuttering) in accessing affordable and effective therapy. Leveraging the power of Artificial Intelligence (AI) and mobile technology, this application is designed to provide a scalable digital health solution. It will offer real-time speech analysis, instant corrective feedback, personalized therapy exercises, and progress tracking, making speech therapy more accessible and engaging for users worldwide. The app also intends to facilitate remote monitoring by Speech-Language Pathologists (SLPs), enhancing the traditional therapy model.**
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-100%25-7F52FF?style=for-the-badge&logo=kotlin)
 ![Python](https://img.shields.io/badge/Python-3.9-3776AB?style=for-the-badge&logo=python)
