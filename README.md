@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/61faf9b9-837c-4349-bf6b-2b1f0866ecc9
 ## 🦾 My Mission: Revolutionizing Stuttering Therapy
 
 <p align="center">
-  I'm developing an <strong>AI-Powered Speech Therapy Assistant</strong> – a mobile application delivering real-time, personalized therapy for individuals who stutter. My mission is to create an accessible, clinically effective tool that transforms lives through innovative technology. This is more than a project; it's a commitment to redefining speech therapy accessibility.
+  I'm developing an <strong>AI-Powered Speech Therapy Assistant</strong> – a mobile application delivering real-time, personalized therapy for individuals who stutter. My mission is to create an accessible, clinically effective tool that transforms lives through innovative technology. This is more than a project; it's a commitment to redefining the accessibility of speech therapy.
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ https://github.com/user-attachments/assets/61faf9b9-837c-4349-bf6b-2b1f0866ecc9
     <img src="https://img.shields.io/badge/Project_Roadmap-0052CC?style=for-the-badge&logo=trello&logoColor=white&labelColor=0D76BF" alt="Project Roadmap">
   </a>
   <a href="https://mobilefriendlymarketanalysis.onrender.com/" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Market_Analysis-FF6B6B?style=for-the-badge&logo=google-analytics&logoColor=white&labelColor=C13D8F" alt="Market Analysis">
+    <img src="https://img.shields.io/badge/Market_Analysis-FF6B6B?style=for-the-badge&logo=google-analytics&logoColor=white&labelColor=C13D8D" alt="Market Analysis">
   </a>
   <a href="https://speech-therapy-dashboard2.onrender.com/" target="_blank" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Live_Progress-00C7B7?style=for-the-badge&logo=progress&logoColor=white&labelColor=1CA2C1" alt="Progress Dashboard">
@@ -40,11 +40,41 @@ https://github.com/user-attachments/assets/61faf9b9-837c-4349-bf6b-2b1f0866ecc9
   If this mission resonates with you, please consider supporting its development. Every contribution accelerates our ability to deliver transformative therapy solutions.
 </p>
 
-<p align="center">
-  <a href="https://ko-fi.com/pedromangue" target="_blank">
-    <img src="https://img.shields.io/badge/Support_Development-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Support on Ko-fi" height="40">
-  </a>
+---
+
+<div align="center">
+
+### 💳 Support Options
+
+#### 🌍 International Support
+
+<a href="https://ko-fi.com/pedromangue" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Support_via_Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Support on Ko-fi" height="40">
+</a>
+<p>*All international currencies accepted via Ko-fi.*</p>
+<br> #### 🇲🇾 Malaysian Support (CIMB Bank)
+<p>For those in Malaysia, you can support us directly via CIMB Bank using the details below:</p>
+<br>
+<h5>QR Code Payment</h5>
+<img src="./assets/qrcode.jpg" alt="CIMB Bank QR Code for Payment" width="250" style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; background-color: #fff; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<p>*Scan this QR code using your preferred banking app (e.g., CIMB Clicks, DuitNow).*</p>
+<br>
+<h5>Bank Transfer Details</h5>
+<div style="background-color: #f8f8f8; border: 1px solid #eee; border-left: 5px solid #0052CC; padding: 15px; border-radius: 8px; margin: 0px auto; max-width: 400px; text-align: left;">
+  <p><strong>Bank Name:</strong> CIMB Bank Berhad</p>
+  <p><strong>Account Name:</strong> Pedro Fabian Owono Ondo Mangue</p>
+  <p><strong>Account No:</strong> 7075926369</p>
+  <p style="font-size: 0.9em; color: #555;"></p>
+</div>
+<br>
+<h5>Confirmation & Assistance</h5>
+<p>Once you've made a transfer, kindly email us your payment receipt for verification and a heartfelt thank you!</p>
+<p>
+  📧 <strong>Email:</strong> <a href="mailto:owonoondomangue@gmail.com">owonoondomangue@gmail.com</a>
 </p>
+<p>We appreciate your support in revolutionizing stuttering therapy!</p>
+
+</div>
 
 ---
 
@@ -159,8 +189,9 @@ The remaining work is focused on final testing, refinement, and academic documen
 ## 🧑‍💻 Author & Contact
 
 * **Pedro Fabian Mange Owono Ondo**
-* **GitHub:** [Owono2001](https://github.com/Owono2001) 
+* **GitHub:** [Owono2001](https://github.com/Owono2001)
 * **Email:** [owonoondomangue@gmail.com](mailto:owonoondomangue@gmail.com)
+* **WhatsApp:** [Chat on WhatsApp](https://wa.me/60174438152)
 * **Portfolio:** [View My Website](https://myportfolio-b-type.onrender.com/)
 
 ---
