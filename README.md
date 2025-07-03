@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/61faf9b9-837c-4349-bf6b-2b1f0866ecc9
 ## 🦾 My Mission: Revolutionizing Stuttering Therapy
 
 <p align="center">
-  I'm developing an <strong>AI-Powered Speech Therapy Assistant</strong> – a mobile application delivering real-time, personalized therapy for individuals who stutter. My mission is to create an accessible, clinically effective tool that transforms lives through innovative technology. This is more than a project; it's a commitment to redefining the accessibility of speech therapy.
+  I'm developing an <strong>AI-Powered Speech Therapy Assistant</strong> – a mobile application delivering real-time, personalized therapy for individuals who stutter. My mission is to create an accessible, clinically effective tool that transforms lives through innovative technology. This is more than a project; it's a commitment to redefining speech therapy accessibility.
 </p>
 
 <p align="center">
@@ -40,41 +40,11 @@ https://github.com/user-attachments/assets/61faf9b9-837c-4349-bf6b-2b1f0866ecc9
   If this mission resonates with you, please consider supporting its development. Every contribution accelerates our ability to deliver transformative therapy solutions.
 </p>
 
----
-
-<div align="center">
-
-### 💳 Support Options
-
-#### 🌍 International Support
-
-<a href="https://ko-fi.com/pedromangue" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Support_via_Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Support on Ko-fi" height="40">
-</a>
-<p>*All international currencies accepted via Ko-fi.*</p>
-<br> #### 🇲🇾 Malaysian Support (CIMB Bank)
-<p>For those in Malaysia, you can support us directly via CIMB Bank using the details below:</p>
-<br>
-<h5>QR Code Payment</h5>
-<img src="./assets/qrcode.jpg" alt="CIMB Bank QR Code for Payment" width="250" style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; background-color: #fff; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-<p>*Scan this QR code using your preferred banking app (e.g., CIMB Clicks, DuitNow).*</p>
-<br>
-<h5>Bank Transfer Details</h5>
-<div style="background-color: #f8f8f8; border: 1px solid #eee; border-left: 5px solid #0052CC; padding: 15px; border-radius: 8px; margin: 0px auto; max-width: 400px; text-align: left;">
-  <p><strong>Bank Name:</strong> CIMB Bank Berhad</p>
-  <p><strong>Account Name:</strong> Pedro Fabian Owono Ondo Mangue</p>
-  <p><strong>Account No:</strong> 7075926369</p>
-  <p style="font-size: 0.9em; color: #555;"></p>
-</div>
-<br>
-<h5>Confirmation & Assistance</h5>
-<p>Once you've made a transfer, kindly email us your payment receipt for verification and a heartfelt thank you!</p>
-<p>
-  📧 <strong>Email:</strong> <a href="mailto:owonoondomangue@gmail.com">owonoondomangue@gmail.com</a>
+<p align="center">
+  <a href="https://ko-fi.com/pedromangue" target="_blank">
+    <img src="https://img.shields.io/badge/Support_Development-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Support on Ko-fi" height="40">
+  </a>
 </p>
-<p>We appreciate your support in revolutionizing stuttering therapy!</p>
-
-</div>
 
 ---
 
