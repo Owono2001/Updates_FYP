@@ -49,6 +49,19 @@ https://github.com/user-attachments/assets/9fc0acd8-4245-4fac-a637-1f0c55f434d1
 
 ---
 
+## 🎯 Aim and Objectives
+
+### Aim:
+The aim of this project is to develop a mobile application that assists individuals with speech disorders such as stuttering.
+
+### Objectives:
+1. To develop AI-powered algorithms for real-time speech analysis.
+2. To design the user interface and experience of the mobile application.
+3. To integrate AI and machine learning for speech analysis.
+4. To evaluate the effectiveness and usability of the application through user testing and feedback.
+
+---
+
 ## 🎯 **Core Features**
 
 * 🧠 **Real-time AI Stutter Detection:** Utilizes a custom-trained Audio Spectrogram Transformer (AST) model to classify speech into four distinct categories (`Block`, `Prolongation`, `Interjection`, `Fluent`) from a live audio stream.
