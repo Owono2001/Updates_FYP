@@ -9,7 +9,8 @@
 ![Android](https://img.shields.io/badge/Android-MVVM-3DDC84?style=for-the-badge&logo=android)
 
 ---
-https://github.com/user-attachments/assets/61faf9b9-837c-4349-bf6b-2b1f0866ecc9
+
+https://github.com/user-attachments/assets/9fc0acd8-4245-4fac-a637-1f0c55f434d1
 
 ## 🦾 My Mission: Revolutionizing Stuttering Therapy
 
