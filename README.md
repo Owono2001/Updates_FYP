@@ -10,7 +10,7 @@
 
 ---
 
-https://github.com/user-attachments/assets/9fc0acd8-4245-4fac-a637-1f0c55f434d1
+https://github.com/user-attachments/assets/1b2b5d79-dddc-4d6b-b065-1855cfd61bc8
 
 ## 🦾 My Mission: Revolutionizing Stuttering Therapy
 
