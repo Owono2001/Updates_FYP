@@ -12,6 +12,14 @@
 
 https://github.com/user-attachments/assets/1b2b5d79-dddc-4d6b-b065-1855cfd61bc8
 
+## 🎥 Demo
+
+Youtube link:
+
+[Speech Therapy Assistance Mobile App - Development #kotlin #mobileappdevelopment #python](https://www.youtube.com/watch?v=xejDct6cfuU&t=129s)
+
+---
+
 ## 🦾 My Mission: Revolutionizing Stuttering Therapy
 
 <p align="center">
