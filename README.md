@@ -150,7 +150,6 @@ A key innovation of this project is the custom 4-class AI model, which distingui
 This distinction allows the **`AdaptivePlanner`** to recommend targeted therapeutic exercises for clinical patterns while providing gentler, more encouraging feedback for normal disfluencies.
 
 ---
-https://github.com/user-attachments/assets/826b444f-87f1-474c-9a07-87787437a019
 
 ## 🚀 **Project Status: Complete & Deployed**
 
